@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>PhD Researcher | AI & Aeronautics Enthusiast | Co-founder @ <a href="https://dogonei.com">Dogonei SA</a></b>
+  <b>PhD Candidate | Mathematics & Aeronautics Enthusiast | Co-founder @ <a href="https://dogonei.com">Dogonei SA</a></b>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 - 🎓 PhD Candidate, Charles III University of Madrid  
 - ✈️ Research in **Aircraft Trajectory Optimization** with **Sustainable Aviation Fuel**  
 - 🧠 Alumni of **AIMS South Africa**  
-- 🧑🏽‍💼 Co-founder of [Dogonei SA](https://dogonei.com)  
-- 📫 Reach me at **oumarou@aims.ac.za**
+- 🧑🏽‍💼 Co-founder of [Dogonei SA](https://dogonei.com)  and **Fondation Taymako Niger**
+- 📫 Reach me at **moussabolaoumarou@gmail.com**
 
 ---
 
@@ -52,9 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-
 ---
-
 ## 🌍 Projects
 
 - 🔧 [Study of Aircraft Behavior](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
