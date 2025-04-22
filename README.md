@@ -19,7 +19,9 @@
 - 🧠 Strong interest in combining **machine learning** with **physics-based modeling** for smarter engineering solutions.
 - 👨‍💻 Co-founder of [Dogonei SA](https://dogonei.com), a tech-driven logistics and innovation platform in West Africa.
 - - 🧑🏽‍💼 Co-founder of **Fondation Taymako Niger**
-- 📚 Alumni of **AIMS South Africa** 
+- 📚 Alumni of **AIMS South Africa**
+- 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **[ETSIAE UPM](https://www.upm.es/)**
+- 📚 Alumni of **Lycée d'Excellence du Niger**  
 - 📫 Reach me at **moussabolaoumarou@gmail.com**
 ---
 
