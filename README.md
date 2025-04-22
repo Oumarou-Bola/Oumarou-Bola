@@ -60,6 +60,12 @@
 - 🔧 [Study of Aircraft Behavior](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
 - 🌐 [Dogonei SA](https://dogonei.com)
 - 🧪 [Optimizing Cost in Transportation Networks](https://github.com/OMB227/Oumarou-AIMS-Project-Repository)
+- 🔧 [Design-Of-Radar-Model-for-Detection-And-Ranging](https://github.com/OMB227/Design-Of-Radar-Model-for-Detection-And-Ranging.git)
+- 🔧[Application of Artificial Intelligence to Aircraft Flight Control Systems]
+- 🔧[Study and Design Of a Drone for Firefighting Operations]
+- 🔧[Aerodynamic Study Of a NACA 4412 Airfoil ]
+- 🔧[Study Of a Stationary Thermal Problem by Finite Element Method]
+- 🔧[Generation Of Airfoil by Joukowski Transformation]
 
 ---
 
