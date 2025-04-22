@@ -57,7 +57,7 @@
 ---
 ## 🌍 Projects
 - 🔧 **Sustainable Aviation Fuel In Aircraft Trajectory Optimization**
-- 🔧 [Study of Aircraft Behavior](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
+- 🔧 [Study of Aircraft Behavior Subjected to Complex Loads](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
 - 🌐 [Dogonei SA](https://dogonei.com)
 - 🧪 [Optimizing Cost in Transportation Networks](https://github.com/OMB227/Oumarou-AIMS-Project-Repository)
 - 🔧 [Design-Of-Radar-Model-for-Detection-And-Ranging](https://github.com/OMB227/Design-Of-Radar-Model-for-Detection-And-Ranging.git)
