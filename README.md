@@ -28,11 +28,11 @@
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
  <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
   height="40" 
@@ -40,6 +40,13 @@
  <img src="https://img.shields.io/badge/Simulink-FF6600?style=flat&logo=mathworks&logoColor=white" height="40" alt="Simulink"/>
   <img src="https://cdn.simpleicons.org/proteus/00599C.svg" height="40" alt="Proteus"/>
  <img src="https://img.shields.io/badge/MikroC_PRO-00B8E6?style=flat&logo=mikroe&logoColor=white" height="40" alt="MikroC PRO"/>
+<!--  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white" height="40" alt="LaTeX"/>
+  <!-- existing icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/LaTeX.gif" height="30" alt="Animated LaTeX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/linux.gif" height="30" alt="Animated Debian"/>
+
 <!--   <img src="https://cdn.simpleicons.org/googlenet/EA4335.svg" height="40" alt="GoogLeNet"/>
   <img src="https://cdn.simpleicons.org/networkx/1488C6" height="40" alt="NetworkX"/>
   <img src="https://cdn.simpleicons.org/moskito/009688" height="40" alt="Moskito"/> -->
