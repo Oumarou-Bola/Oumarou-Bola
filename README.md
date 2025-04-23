@@ -45,16 +45,45 @@
   <img src="https://cdn.simpleicons.org/moskito/009688" height="40" alt="Moskito"/> -->
 </p>
 
----
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="160"/>
+</p>   -->
+<!-- ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="160"/>
+</p> -->
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMB227&theme=tokyonight" height="300"/>
+</p>
+
+<!-- GitHub Contribution Graph (requires third-party hosting) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMB227&theme=tokyonight" height="250"/>
+</p>
+
+<!-- Optional WakaTime badge if configured -->
+<!-- <p align="center">
+  <a href="https://wakatime.com/@OMB227">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime Badge"/>
+  </a>
+</p> -->
+
 ## 🌍 Projects
 - 🔧 **Sustainable Aviation Fuel In Aircraft Trajectory Optimization**
 - 🔧 [Study of Aircraft Behavior Subjected to Complex Loads](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
