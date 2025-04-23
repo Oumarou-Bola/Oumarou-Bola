@@ -21,7 +21,7 @@
 - 🧑🏽‍💼 Co-founder of **Fondation Taymako Niger**
 - 📚 Alumni of **AIMS South Africa**
 - 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **[ETSIAE UPM](https://www.upm.es/)**
-- 📚 Alumni of **Lycée d'Excellence du Niger**  
+- 📚 Alumni of **Lycée d'Excellence de Niamey**  
 - 📫 Reach me at **moussabolaoumarou@gmail.com**
 ---
 
