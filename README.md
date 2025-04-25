@@ -14,14 +14,14 @@
 ---
 ## 👨‍💻 About Me
 
-- 🎓 Currently a PhD candidate in Aerospace Engineering at **Universidad Carlos III de Madrid**, working on **Sustainable Aviation Fuel Integrated in Aircraft Trajectory Optimization**. 
+- 🎓 Currently a PhD candidate in Aerospace Engineering at **UC3M**, working on **Sustainable Aviation Fuel Integrated in Aircraft Trajectory Optimization**. 
 - ✈️ Research in **Aircraft Trajectory Optimization** with **Sustainable Aviation Fuel**  
-- 🧠 Strong interest in combining **machine learning** with **physics-based modeling** for smarter engineering solutions.
 - 👨‍💻 Co-founder of [Dogonei SA](https://dogonei.com), a tech-driven logistics and innovation platform in West Africa.
 - 📚 Alumni of **AIMS South Africa / [UCT](https://www.uct.ac.za/)**
 - 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **[ETSIAE UPM](https://www.upm.es/)**
 - 📚 Alumni of **Lycée d'Excellence de Niamey**  
 - 📫 Reach me at **moussabolaoumarou@gmail.com**
+ <!-- 🧠 Strong interest in combining **machine learning** with **physics-based modeling** for smarter engineering solutions. -->
   <!-- - 🧑🏽‍💼 Co-founder of **Taymako Foundation Niger** -->
 
 ---
