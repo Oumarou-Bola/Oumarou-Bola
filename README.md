@@ -98,7 +98,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" width="320"/>
 </p>
 
 <p align="center">
