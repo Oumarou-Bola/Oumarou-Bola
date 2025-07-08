@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="180"/>
 </p>
@@ -91,11 +91,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMB227&theme=tokyonight" height="300"/>
 </p>
 
-<!-- GitHub Contribution Graph (requires third-party hosting) -->
+ GitHub Contribution Graph (requires third-party hosting)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMB227&theme=tokyonight" height="250"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" width="340"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMB227&theme=tokyonight" width="765"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMB227&theme=tokyonight" width="765"/>
+</p>
 <!-- Optional WakaTime badge if configured -->
 <!-- <p align="center">
   <a href="https://wakatime.com/@OMB227">
