@@ -68,14 +68,14 @@
 <!-- ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumarou-Bola&layout=compact&theme=tokyonight" height="160"/>
 </p>   -->
 <!-- ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumarou-Bola&layout=compact&theme=tokyonight" height="160"/>
 </p> -->
 
 
@@ -83,12 +83,12 @@
 ## 📊 GitHub Stats
 
 <!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumarou-Bola&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMB227&theme=tokyonight" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumarou-Bola&theme=tokyonight" height="300"/>
 </p>
 
  GitHub Contribution Graph (requires third-party hosting)
@@ -97,16 +97,16 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMB227&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMB227&layout=compact&theme=tokyonight" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumarou-Bola&layout=compact&theme=tokyonight" width="320"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMB227&theme=tokyonight" width="765"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumarou-Bola&theme=tokyonight" width="765"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMB227&theme=tokyonight" width="765"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oumarou-Bola&theme=tokyonight" width="765"/>
 </p>
 <!-- Optional WakaTime badge if configured -->
 <!-- <p align="center">
@@ -117,10 +117,10 @@
 
 ## 🌍 Projects
 - 🔧 **Sustainable Aviation Fuel In Aircraft Trajectory Optimization**
-- 🔧 [Study of Aircraft Behavior Subjected to Complex Loads](https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project)
+- 🔧 [Study of Aircraft Behavior Subjected to Complex Loads](https://github.com/Oumarou-Bola/Study-Of-Aircraft-Behavior-Project)
 - 🌐 [Dogonei SA](https://dogonei.com)
-- 🧪 [Optimizing Cost in Transportation Networks](https://github.com/OMB227/Oumarou-AIMS-Project-Repository)
-- 🔧 [Design-Of-Radar-Model-for-Detection-And-Ranging](https://github.com/OMB227/Design-Of-Radar-Model-for-Detection-And-Ranging.git)
+- 🧪 [Optimizing Cost in Transportation Networks](https://github.com/Oumarou-Bola/Oumarou-AIMS-Project-Repository)
+- 🔧 [Design-Of-Radar-Model-for-Detection-And-Ranging](https://github.com/Oumarou-Bola/Design-Of-Radar-Model-for-Detection-And-Ranging.git)
 - 🔧**Application of Artificial Intelligence to Aircraft Flight Control Systems**
 - 🔧**Study and Design Of a Drone for Firefighting Operations**
 - 🔧**Aerodynamic Study Of a NACA 4412 Airfoil**
