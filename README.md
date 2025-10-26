@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FC0&height=200&section=header&text=Hi%20there!%20I'm%20Oumarou%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,DA70D6&height=200&section=header&text=Hi%20there!%20I'm%20Oumarou%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -130,5 +130,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FC0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,DA70D6&height=120&section=footer"/>
 </p>
