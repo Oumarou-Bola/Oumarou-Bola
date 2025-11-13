@@ -99,10 +99,9 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oumarou-Bola&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" width="437"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumarou-Bola&layout=compact&theme=tokyonight&cache_seconds=7200" width="320"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumarou-Bola&theme=tokyonight" width="765"/>
