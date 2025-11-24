@@ -23,7 +23,12 @@
 - 📫 Reach me at **moussabolaoumarou@gmail.com**
  <!-- 🧠 Strong interest in combining **machine learning** with **physics-based modeling** for smarter engineering solutions. -->
   <!-- - 🧑🏽‍💼 Co-founder of **Taymako Foundation Niger** -->
-
+<div align="left">
+  <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
+  <!-- <br/> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=for-the-badge" width="140px" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Oumarou-Bola&label=Profile%20views&color=78D8F8&style=flat" width="140px" />
+</div>
 ---
 
 ## 🚀 Technologies & Tools
