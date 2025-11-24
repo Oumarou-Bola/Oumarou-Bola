@@ -27,7 +27,7 @@
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
   <!-- <br/> -->
   
-  <a href="[www.linkedin.com/in/oumarou-moussa-bola-684507217](https://www.linkedin.com/in/oumarou-moussa-bola-684507217/)">
+  <a href="https://www.linkedin.com/in/oumarou-moussa-bola-684507217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=Blue" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Oumarou-Bola&label=Profile%20views&color=78D8F8&style=flat" width="140px" />
