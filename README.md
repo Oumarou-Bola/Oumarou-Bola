@@ -114,8 +114,8 @@
 </p>
 
 <p align="center">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumarou-Bola&theme=tokyonight" width="765"/>-->
-   <img src="https://streak-stats.demolab.com?user=Oumarou-Bola&theme=tokyonight&hide_border=false" width="765"/>
+ <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumarou-Bola&theme=tokyonight" width="765"/>-->
+  <img src="https://streak-stats.demolab.com?user=Oumarou-Bola&theme=tokyonight&hide_border=false" width="765"/>
 </p>
 
 <p align="center">
