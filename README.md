@@ -18,7 +18,7 @@
 - ✈️ Research in **Aircraft Trajectory Optimization** with **Sustainable Aviation Fuel**  
 - 👨‍💻 Co-founder of [Dogonei SA](https://dogonei.com), a tech-driven early stage logistics and innovation B2B2C startup in West Africa Open for collaborators and Startup Incubators.
 - 📚 Alumni of **AIMS South Africa / [UCT](https://www.uct.ac.za/)**
-- 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **Erasmus Exchange** Student at **UPM** – **[ETSIAE UPM](https://www.upm.es/)** , 2023  
+- 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **Erasmus Exchange** Student at **[ETSIAE-UPM](https://www.upm.es/)** , 2023  
 - 📚 Alumni of **Lycée d'Excellence de Niamey**  
 - 📫 Reach me at **moussabolaoumarou@gmail.com**
  <!-- 🧠 Strong interest in combining **machine learning** with **physics-based modeling** for smarter engineering solutions. -->
