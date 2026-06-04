@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>PhD Candidate | Mathematics & Aeronautics Enthusiast | Co-founder @ <a href="https://dogonei.com">Dogonei SA</a></b>
+  <b>PhD Candidate | Mathematics & Aeronautics Enthusiast | Co-founder Dogonei SA
 </p>
 
 <p align="center">
