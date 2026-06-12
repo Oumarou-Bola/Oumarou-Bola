@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀Passionate about Abstract and computational mathematics, Optimal Control, programming, and AI applications in aerospace.
+  🚀Passionate about Abstract and computational mathematics, Optimal Control, Programming, and AI Applications in Aerospace.
 </p>
 
 ---
