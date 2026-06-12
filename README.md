@@ -133,7 +133,7 @@
 ## 🌍 Projects
 - 🔧 **Sustainable Aviation Fuel In Aircraft Trajectory Optimization**
 - 🔧 [Study of Aircraft Behavior Subjected to Complex Loads](https://github.com/Oumarou-Bola/Study-Of-Aircraft-Behavior-Project)
-- 🌐 [Dogonei SA](https://dogonei.com)
+- 🌐 Dogonei SA
 - 🧪 [Optimizing Cost in Transportation Networks](https://github.com/Oumarou-Bola/Oumarou-AIMS-Project-Repository)
 - 🔧 [Design-Of-Radar-Model-for-Detection-And-Ranging](https://github.com/Oumarou-Bola/Design-Of-Radar-Model-for-Detection-And-Ranging.git)
 - 🔧**Application of Artificial Intelligence to Aircraft Flight Control Systems**
@@ -141,7 +141,7 @@
 - 🔧**Aerodynamic Study Of a NACA 4412 Airfoil**
 - 🔧**Study Of a Stationary Thermal Problem by Finite Element Method**
 - 🔧**Generation Of Airfoil by Joukowski Transformation**
-
+<!- (https://dogonei.com) -->
 ---
 
 <p align="center">
