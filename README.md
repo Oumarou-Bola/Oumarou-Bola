@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b> Mathematician & Aeronautics Enthusiast | Co-founder Dogonei SA
+  <b> Mathematician & Aeronautical Engineer(MEng) | Co-founder Dogonei SA
 </p>
 
 <p align="center">
