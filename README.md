@@ -16,7 +16,7 @@
 
 <!-- - 🎓 Currently a Research Assistant in Aerospace Engineering at **UC3M**, working on **Sustainable Aviation Fuel Integrated in Aircraft Trajectory Optimization**.--> 
 <!-- ✈️ Research in **Aircraft Trajectory Optimization** with **Sustainable Aviation Fuel** --> 
-- 👨‍💻 Co-founder of Dogonei SA, a tech-driven early stage logistics and innovation B2B2C startup in West Africa Open for collaboration.
+- 👨‍💻 Co-founder of Dogonei SA, a tech-driven early stage logistics and innovation B2B2C startup in West Africa.
 - 📚 Alumni of **AIMS South Africa / [UCT](https://www.uct.ac.za/)**
 - 📚 Alumni of **[University College of Aviation and Technology](https://esat.ens.tn/index.php)** and **Erasmus+ Exchange** Student at **[ETSIAE-UPM](https://www.upm.es/)** , 2023  
 - 📚 Alumni of **Lycée d'Excellence de Niamey**  
