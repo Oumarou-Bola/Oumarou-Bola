@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <b> PhD Researcher @ UC3M | Climate-Optimal Aviation | SAF & AI
-
- | Co-founder Dogonei SA
+  <b> PhD Researcher @ UC3M | Climate-Optimal Aviation | SAF & AI | Co-founder Dogonei SA
 </p>
 
 <p align="center">
